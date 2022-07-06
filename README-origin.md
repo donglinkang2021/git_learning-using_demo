@@ -1,8 +1,8 @@
-﻿# git_learning-using_demo
+# git_learning-using_demo
 
 ## 学习git
 
-![image-20220705221656504](https://img2022.cnblogs.com/blog/2737817/202207/2737817-20220706232120722-1365924680.png)
+![image-20220705221656504](README.assets/image-20220705221656504.png)
 
 > 这个文档是`git`的入门使用文档
 
@@ -21,7 +21,7 @@
 2. `git commit -m 'some data'`后面的更新的信息一定要自己写上去，不然会自动打开`Vim`让你写（写完下方 输入`:wq`退出）
 3. `git push`即可；
 
-![image-20220705235003412](https://img2022.cnblogs.com/blog/2737817/202207/2737817-20220706232120168-1314930032.png)
+![image-20220705235003412](README.assets/image-20220705235003412.png)
 
 ### 额外知识补充：
 
