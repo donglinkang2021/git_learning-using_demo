@@ -34,3 +34,9 @@
 <center>2022.7.6来更新一下</center>
 
 > `github`自己设置公共仓库上传的单个文件不能超过100MB，这也就决定了如果有大的压缩包，又比如某些文件的安装包想留个备份都不太适合，在报错时给出了其它的储存大文件的`git`网站，没细了解，`gitlab`这个东西初步了解了一下主要是面向企业和学校的，它可以构建`github`类似的仓库;
+
+----
+
+<center>2023.2.21来更新一下</center>
+
+OpenSSL SSL_read: Connection was reset, errno 10054报错无法push[解决办法](https://blog.csdn.net/sinat_32017511/article/details/115762643)，有人说是因为dns被污染的问题，我们只需要用`git init`之后再`git push`就可以了。
